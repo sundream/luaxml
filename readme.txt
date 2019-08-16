@@ -1,5 +1,5 @@
 LuaXML
-- modify from https://github.com/LuaDist/luaxml,compat lua53
+- modify from https://github.com/LuaDist/luaxml compat lua53
 
 - a module that maps between Lua and XML without much ado
 version 1.7.2, 2009-09-06 by Gerald Franz, www.viremo.de
